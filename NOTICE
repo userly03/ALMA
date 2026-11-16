@@ -10,3 +10,5 @@ Third-party data, models and images keep their own licences and must be attribut
 - NOAA SWPC and GOES data: public domain (US federal agency).
 - GFZ Potsdam Kp index: CC BY 4.0 (Matzka et al. 2021). LifeSnaps (Zenodo 7229547) and the Fitbit study (Zenodo 8018238): see their records.
 - Kokoro-82M voice model: Apache-2.0 (downloaded, not versioned).
+
+Super Intelligence disclosure: code and documentation were developed with Claude Code (Anthropic); the voice clips in web/public/voice/ are SI-generated audio (Kokoro-82M text-to-speech from deterministic template sentences). No SI-generated images or data.
