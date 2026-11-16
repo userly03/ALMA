@@ -6,6 +6,8 @@ Health-monitoring software for astronauts (NASA Space Apps 2026 · Challenge 4: 
 
 One rule runs through everything: **no colour without a contestable rule behind it.** Every alarm prints its receipt — the exact rule, the seed that reproduces it, the hash of the preregistration it came from. Every "all clear" states what the detector could actually have seen, given the days really observed. Every experiment was sealed with a SHA-256 hash **before** it ran, and the failures are published next to the successes.
 
+> **Judges — 2-minute path:** (1) open the [live demo](https://alma-iota-dusky.vercel.app), click once to wake ALMA; (2) go to **The Leak** (Ship ▸ Leak) and inject the 0.30 kg leak: the manifest detector is blind, the conservation law raises the alarm; (3) **The Vault** (Lab ▸ Vault): 30 hash-sealed experiments, failures included, and "Verify all" recomputes every hash in your browser; (4) **The Frontier** (World ▸ Frontier): real astronaut blood, live ISS and space weather; (5) **The Storm**: the real Sun, live. Real vs simulated is labelled on every screen.
+
 ![The Medical Module: a crew member, the nine books as rings, and a paper receipt for the air book](docs/screenshots/01-medical-module.jpg)
 
 > **Honest scope — read this first.** There is **no astronaut data** here: no open dataset of a crewed habitat's sensors or of astronaut physiology exists. What is real is labelled REAL (wearables from everyday people, NOAA space weather, NASA's Sun, NASA planning figures); what is simulated is labelled SIMULATED and anchored to published NASA numbers; the crew are **fictional characters**. Every screen carries a REAL / SIMULATED stamp. See [Real vs simulated](#real-vs-simulated).
