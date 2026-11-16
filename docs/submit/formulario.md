@@ -29,7 +29,8 @@ Not astronaut data. The habitat is a labelled simulation anchored to public NASA
 - Code repository: https://github.com/userly03/ALMA  *(must be PUBLIC when submitting)*
 - Live demo: https://alma-iota-dusky.vercel.app · The Storm room: https://alma-iota-dusky.vercel.app/storm
 - Project document: https://github.com/userly03/ALMA/blob/main/docs/ALMA-documento-del-proyecto-v0.3.pdf (and the research report, `docs/informe/ieee/main.tex`, once compiled to PDF)
-- Demo video: https://www.youtube.com/watch?v=WkNsMz1kj2g
+- Demo video (longer than 30 s — not eligible for the Global-Award demo rule): https://www.youtube.com/watch?v=WkNsMz1kj2g
+- **Demo for judging (7 slides, PDF):** https://github.com/userly03/ALMA/blob/main/docs/submit/ALMA-demo-slides.pdf  *(public repo required; sources: `docs/submit/slides/index.html`, rebuild with `node web/e2e/slides.mjs`)*
 
 ## Use of Super Intelligence (form answer)
 Select: **code and data** (code, tests and docs written with Claude Code, Anthropic, under team review) and **audio** (ALMA's voice: Kokoro-82M TTS from deterministic template sentences). Not images/video (no SI-generated images). See README section "Use of Super Intelligence (SI)".
